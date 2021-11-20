@@ -4,5 +4,9 @@ insights, providing a means to evaluate whether students are paying attention du
 feed of students during online lectures and detect the various parameters specified before conclusively derive focus levels of students during specific lectures using several models such as MTCNN (Multi-task Cascade Convolution Neural Network), coupled with the OpenCV Framework to subsequently try and derive focus levels
 of students as the desired insights for the output.
 <br>
+## Link to Report:
+- [View Document](https://drive.google.com/file/d/1l30DwREoAGsw1FeI8cGzwbwSNW-nXOfW/view?usp=sharing)
+
+<br>
 ## To run the code:
 - Run main.py after installing the requirements
